@@ -1,4 +1,4 @@
-Zeo Shot Slot Tagger.
+Conditioned Seq2Seq model.
 
 Using tf.Datasets and tf.Estimators for seq2seq model.
 
