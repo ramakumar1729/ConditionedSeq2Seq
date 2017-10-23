@@ -1,1 +1,1 @@
-# ZeoShotSLU
+Zeo Shot Slot Tagger.
